@@ -159,7 +159,7 @@ README: Some web app frameworks work better than others in certain situations, d
 
 1) https://www.scnsoft.com/blog/web-application-architecture
 2) https://hackernoon.com/how-to-choose-a-web-application-framework
-3) [https://youtu.be/OWAqilIVNgE](Luke Smith - Set Up a Basic Website! nginx, Certbot & secure login)
+3) [Luke Smith - Set Up a Basic Website! nginx, Certbot & secure login](https://youtu.be/OWAqilIVNgE)
 
 
 README: Software developers, no matter what language they're using, take advantage of libraries of pre-built code to speed things up. Web developers use special libraries for JavaScript known as "packages". Packages can be downloaded from one of two popular package repositories, [npm](https://www.npmjs.com) and [yarn](https://yarnpkg.com) (using the eponymous command line tools, `npm install` and `yarn install`). Note: Developers also add pre-built JavaScript libraries directly using special HTML links and JavaScript includes.
